@@ -35,9 +35,6 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 ALLOWED_HOSTS = ['codestar-my-blog.herokuapp.com', 'localhost']
 
 
-
-
-
 # Application definition
 
 INSTALLED_APPS = [
